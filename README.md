@@ -1,5 +1,5 @@
 
-<h1> Power </h1>
+<h1> Power Bi Dashboard </h1>
 
     <h2>Table of Contents</h2>
     <ul>
