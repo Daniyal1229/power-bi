@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Power BI Dashboards</title>
-</head>
+
 <body>
     <h1>Power BI Dashboards</h1>
 
