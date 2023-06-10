@@ -47,7 +47,7 @@
     <h2 id="license">License</h2>
     <p>The content of this repository is licensed under the <a href="LICENSE">MIT License</a>. You are free to use, modify, and distribute the dashboards for both personal and commercial purposes. However, please note that the dashboards are provided as-is, without any warranty or support.</p>
     <h2> Screenshort </h2>
-    <img src="image/Retail sales data.png" alt="My Image">
+    <img src="D:\UAE Project\power-bi\Power bi\image\Retail sales data.png" alt="My Image">
 </body>
 </html>
 
