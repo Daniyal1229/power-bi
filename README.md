@@ -46,6 +46,8 @@
     <p>If you find any issues with the existing dashboards, please open an issue in the repository, providing as much detail as possible about the problem.</p>
     <h2 id="license">License</h2>
     <p>The content of this repository is licensed under the <a href="LICENSE">MIT License</a>. You are free to use, modify, and distribute the dashboards for both personal and commercial purposes. However, please note that the dashboards are provided as-is, without any warranty or support.</p>
+    <h2> Screenshort </h2>
+    <img src="image.jpg" alt="My Image">
 </body>
 </html>
 
